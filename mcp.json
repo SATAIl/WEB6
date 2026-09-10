@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "library-db": {
+      "command": "C:\\Program Files(x86)\\Python311\\python.exe",
+      "args": [
+        "E:\\lab6\\pythonProject\\main.py"
+      ]
+    }
+  }
+}
